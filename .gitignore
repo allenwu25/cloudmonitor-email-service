@@ -1,0 +1,5 @@
+.env
+gc
+app.yaml
+golangapi.exe
+.gcloudignore
